@@ -45,7 +45,7 @@ async function loadIncludes(md) {
     let [filePath, linePart] = full.split("#");
 
     try {
-      const res = await fetch(`docs/${filePath}`);
+      const res = await fetch(`${filePath}`);
       let code = await res.text();
 
       // 🔥 Handle line slicing
