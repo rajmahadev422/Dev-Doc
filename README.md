@@ -20,11 +20,11 @@
 ### Student Details
 
 * **Name** : Mahadev Kumar
-* **GitHub** : rajmahadev422
-* **Email** : Mahadev Raj , 24je0035
-* **LinkedIn** : Mahadev Kumar
-* **Portfolio** : Mahadev
-* **Resume** : Link
+* **GitHub** : [rajmahadev422](https://github.com/rajmahadev422)
+* **Email** : [Mahadev Raj](rajmahadev422@gmail.com) , [24je0035](24je0035@iitism.ac.in)
+* **LinkedIn** : [Mahadev Kumar](https://www.linkedin.com/in/mahadev-kumar-15b2ba320)
+* **Portfolio** : [Portfolio Link](https://portfolio-tau-three-ozpwygtbtt.vercel.app/)
+* **Resume** : [Resume Link](https://drive.google.com/file/d/13vmP6K7SM7ObNtUgFnWEbi2vFCqwTJGj/view?usp=drivesdk)
 * **TimeZone** : New Delhi (+5:30GMT)
 * **Address** : Sitamarhi, Bihar, India, Pin-843323
 
