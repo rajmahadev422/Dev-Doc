@@ -1,8 +1,8 @@
-![gsoc](https://upload.wikimedia.org/wikipedia/commons/a/a7/GSoC-logo-horizontal.svg)
+![gsoc](https://raw.githubusercontent.com/rajmahadev422/GSoC-Proposal/f9b464770fd3a12771a2064cb29d80519e137dba/images/GSoC-logo.svg)
 
 # <p align="center"> 🚀 GSoC Proposal</p>
 
-![opencv](https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fopencv_logo_icon_170888.png&id=170888&pack_or_individual=pack)
+![opencv](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/images/opencv_logo_icon_170888.png?raw=true)
 
 ## Custom Markdown-to-HTML Documentation Engine
 
