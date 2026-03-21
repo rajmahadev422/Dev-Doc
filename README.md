@@ -181,6 +181,8 @@ Key components:
 ![img1](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img1.png?raw=true)
 ![img2](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img2.png?raw=true)
 
+[![video](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img2.png?raw=true)](https://drive.google.com/file/d/1Y-NohExrH_VfLvP8W6OF4yEmoFQFyfwt/view?usp=drivesdk)
+
 ---
 
 ## 🚀 Future Improvements
