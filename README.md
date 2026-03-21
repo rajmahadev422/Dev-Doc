@@ -2,7 +2,7 @@
 
 # <p align="center"> 🚀 GSoC Proposal</p>
 
-![opencv](https://github.com/rajmahadev422/GSoC-Proposal/blob/e2e78bb9389d1049f41b1482897f37b66f3eddae/public/opencv_logo.png)
+![opencv](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/opencv_logo.png?raw=true)
 
 ## Custom Markdown-to-HTML Documentation Engine
 
@@ -176,9 +176,10 @@ Key components:
 
 [md file](docs/tutorial/threshold_in_range.md)
 [page](https://rajmahadev422.github.io/GSoC-Proposal/#/tutorial/threshold_in_range.md)
-![img](https://github.com/rajmahadev422/GSoC-Proposal/blob/e2e78bb9389d1049f41b1482897f37b66f3eddae/public/image.png)
-![img1](https://github.com/rajmahadev422/GSoC-Proposal/blob/e2e78bb9389d1049f41b1482897f37b66f3eddae/public/img1.png)
-![img2](https://github.com/rajmahadev422/GSoC-Proposal/blob/e2e78bb9389d1049f41b1482897f37b66f3eddae/public/img2.png)
+
+![img](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/image.png?raw=true)
+![img1](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img1.png?raw=true)
+![img2](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img2.png?raw=true)
 
 ---
 
