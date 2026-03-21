@@ -70,8 +70,6 @@ body {
   font-family: "DM Sans", system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
-  height: 100vh;
-  overflow: hidden;
   font-size: 15px;
   line-height: 1.6;
   transition: background 0.2s, color 0.2s;
@@ -195,7 +193,7 @@ body {
 
 /* Menu button */
 #menuBtn {
-  display: none;
+  display: block;
   background: none;
   border: none;
   color: var(--text-secondary);
