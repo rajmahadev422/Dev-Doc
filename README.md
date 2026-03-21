@@ -168,6 +168,7 @@ Key components:
 ## ⭐ Why Me
 
 [Live Link](https://rajmahadev422.github.io/GSoC-Proposal/)
+[github-link](https://github.com/rajmahadev422/GSoC-Proposal.git)
 
 * I have already built a similar **Markdown-to-HTML documentation engine**, giving me practical experience with parsing, rendering, and UI challenges.
 * My background in full-stack development and proficiency in JavaScript, C++, and Python enables me to implement this project efficiently.
