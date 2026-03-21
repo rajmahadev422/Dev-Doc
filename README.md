@@ -174,7 +174,8 @@ Key components:
 * I am highly motivated to build scalable systems from scratch and deliver a well-structured, extensible solution.
 
 [md file](docs/tutorial/threshold_in_range.md)
-[page](https://rajmahadev422.github.io/GSoC-Proposal/#/tutorial/threshold_in_range.md
+[page](https://rajmahadev422.github.io/GSoC-Proposal/#/tutorial/threshold_in_range.md)
+
 ---
 
 ## 🚀 Future Improvements
