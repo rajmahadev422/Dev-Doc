@@ -167,19 +167,19 @@ Key components:
 
 ## ⭐ Why Me
 
-[Live Link](https://rajmahadev422.github.io/GSoC-Proposal/)
-[github-link](https://github.com/rajmahadev422/GSoC-Proposal.git)
+[Live Link](https://rajmahadev422.github.io/Doc-Engine/))
+[github-link](https://github.com/rajmahadev422/Doc-Engine.git)
 
 * I have already built a similar **Markdown-to-HTML documentation engine**, giving me practical experience with parsing, rendering, and UI challenges.
 * My background in full-stack development and proficiency in JavaScript, C++, and Python enables me to implement this project efficiently.
 * I am highly motivated to build scalable systems from scratch and deliver a well-structured, extensible solution.
 
 [md file](docs/tutorial/threshold_in_range.md)
-[page](https://rajmahadev422.github.io/GSoC-Proposal/#/tutorial/threshold_in_range.md)
+[page](https://rajmahadev422.github.io/Doc-Engine/#/tutorial/threshold_in_range.md)
 
-![img](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/image.png?raw=true)
-![img1](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img1.png?raw=true)
-![img2](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img2.png?raw=true)
+![img](https://github.com/rajmahadev422/Doc-Engine/blob/main/public/image.png?raw=true)
+![img1](https://github.com/rajmahadev422/Doc-Engine/blob/main/public/img1.png?raw=true)
+![img2](https://github.com/rajmahadev422/Doc-Engine/blob/main/public/img2.png?raw=true)
 
 [![video](https://github.com/rajmahadev422/GSoC-Proposal/blob/main/public/img2.png?raw=true)](https://drive.google.com/file/d/1Y-NohExrH_VfLvP8W6OF4yEmoFQFyfwt/view?usp=drivesdk)
 
