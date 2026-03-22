@@ -100,6 +100,34 @@ cd opencv
 
 :::
 
+## Docs.json
+
+:::code
+
+```json
+{
+    "Tutorial": [
+        {
+            "title": "Quick Start",
+            "url": "docs/intro/quick-start.md"
+        }
+    ],
+    "Introduction": []
+}
+```
+
+```yml
+Tutorial:
+  - doc:
+      title: Quick Start
+      url: docs/intro/quick-start.md
+
+Introduction:   
+    
+```
+
+:::
+
 ## Summary Table
 
 | Feature | Python | C++ | Java | JavaScript |
