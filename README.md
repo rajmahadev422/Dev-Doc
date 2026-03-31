@@ -74,18 +74,6 @@ Dev-Doc/
 - Functionality: Extend features by editing JavaScript in the src/ directory
 - Structure: Update your JSON configuration to add new sections
 
-## Example
-To include a code snippet from a file:
-
-```markdown
-## Installation Example
-
-To install dependencies, run:
-
-:::include{package.json#L5-L12}
-```
-> This will display lines 5-12 from package.json in your documentation.
-
 ## Contributing
 - Fork the repository
 - Create a feature branch (git checkout -b feature/amazing-feature)
